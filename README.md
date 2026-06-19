@@ -1,7 +1,7 @@
 
 
 <p align=center>
-<a href="https://hits.sh/github.com/daniedibles/"><img alt="Hits" src="https://hits.sh/github.com/daniedibles.svg?style=flat-square&label=%E2%99%A1%20visitors&color=ef9ec0&labelColor=ffffff&logo=base64"/></a>
+<a href="https://hits.sh/github.com/daniedibles/"><img alt="Hits" src="https://hits.sh/github.com/daniedibles.svg?style=flat-square&label=%E2%8A%B9%20visitors&color=121357&labelColor=ffffff"/></a>
 </p>
 <p align=center>
 ═══════════════════════════════════
