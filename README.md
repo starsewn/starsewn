@@ -1,4 +1,6 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&pause=1000&color=152C71&width=435&lines=%22It's+over%2C+isn't+it%3F%22" alt="Typing SVG" /></a>
+<p align=center>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&size=15&pause=1000&color=121D5D&background=93D9FF&center=true&width=435&lines=%22It's+over%2C+isn't+it%3F+Isn't+it%3F+Isn't+it+over%3F%22+" alt="Typing SVG" /></a>
+</p>
 
 <p align=center>
 <img src="https://cdn.discordapp.com/attachments/1363651563683320032/1520548631927590972/IMG_5907.png?ex=6a4198c4&is=6a404744&hm=96e9e4d667dc0a0d2967b95d5972b04b6a9df504ed49f4b00917e588af676f68&" width="470" height="75px">
