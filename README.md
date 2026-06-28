@@ -20,7 +20,14 @@
 </p>
 <p align=center>
 
-  
+<details align=center>
+<summary>Things to know about me!</summary>
+<p align=center>ㅤᯓ I am  <i>non-binary and Omnisexual!</i> </p>
+<p align=center>ㅤᯓ I prefer  <i>they/xem></i> pronouns, but I usually use any.</p>
+<p align=center>ㅤᯓ I may  <i>take things seriously,</i> so please use tone tags.</p>
+<hr>
+<p><i>Strictly Anti-Proshipper and Anti-MAP.</i></p>
+</details>
 this is something i don't have any motivation to finish but whatever
 </p>
 
